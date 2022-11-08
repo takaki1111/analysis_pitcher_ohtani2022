@@ -1,1 +1,1 @@
-# analysis_pitcher_ohtani2022
+# 2022年投手大谷翔平のデータをPythonを使って分析
